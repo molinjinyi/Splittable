@@ -1,0 +1,14 @@
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\Dapper.dll
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\MySql.Data.dll
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\Dapper.xml
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

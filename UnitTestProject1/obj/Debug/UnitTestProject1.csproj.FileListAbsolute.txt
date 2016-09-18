@@ -1,0 +1,13 @@
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.exe
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\Dapper.dll
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\EntityFramework.dll
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\MySql.Data.dll
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\Dapper.xml
+D:\ConsoleApplication1\UnitTestProject1\bin\Debug\EntityFramework.xml
+D:\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
